@@ -30,7 +30,7 @@ const About = () => {
             >
               <div className="relative z-10">
                 <img
-                    src="/images/photo-1573165231977-3f0e27806045.webp"
+                    src="/images/team.webp"
                     alt="L'équipe Locod.AI"
                     width="1200"
                     height="800"
